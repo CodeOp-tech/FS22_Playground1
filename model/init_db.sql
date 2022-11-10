@@ -12,5 +12,5 @@ CREATE TABLE ducks (
 
 INSERT INTO ducks (name, age)
 VALUES
-    ('Bono', 2),
+    ('Banjo', 2),
     ('Bjork', 4);
